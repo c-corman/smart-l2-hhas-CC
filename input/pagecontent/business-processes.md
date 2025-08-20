@@ -162,7 +162,8 @@ Notes:
 - 4.3 Is the definition of a heat-related case met?
 - 4.4 Report case
     - A case that meets the definition of a heat-related case is reported to the surveillance team;
-    - Reporting the cases related to a heat event should be done as soon as they are detected, to allow for a real-time syndromic surveillance. This leads to better response time and actions, for example the surveillance data (daily deaths, daily calls to health information lines, daily ambulance calls, daily emergency room visits, occupancy rate of emergency room beds, etc.) might show increases in morbidity and mortality which might result in a decision to increase the alert level.
+    - Reporting the cases related to a heat event should be done as soon as they are detected, to allow for a real-time syndromic surveillance. This leads to better response time and actions, for example the surveillance data (daily deaths, daily calls to health information lines, daily ambulance calls, daily emergency room visits, occupancy rate of emergency room beds, etc.) might show increases in morbidity and mortality which might result in a decision to increase the alert level;
+    - The reporting of heat-related cases should be done via the HHAS or other digital tools interoperable with the HHAS, such as dedicated surveillance modules.
 - 4.5 Provide other relevant clinical services
     - The health worker might provide other relevant clinical and support services, including referrals, if the case is evaluated as not being a heat-related case. The services needed are specific to each client and clinical condition(s).
 - 4.6 Continue HHAP response
