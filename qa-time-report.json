@@ -1,0 +1,57 @@
+{
+  "date" : "Thu, 21 Aug, 2025 11:22:23 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-smart.who.int.l2-hhas.json",
+      "size" : 7641,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 52,
+          "length" : 65
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 53,
+          "length" : 15
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 53,
+          "length" : 139
+        },
+        {
+          "activity" : "validate",
+          "start" : 53,
+          "length" : 5312
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 59,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 59,
+          "length" : 119
+        },
+        {
+          "activity" : "generate2",
+          "start" : 61,
+          "length" : 75
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 71,
+          "length" : 4
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 92,
+          "length" : 3
+        }
+      ]
+    }
+  ]
+}
